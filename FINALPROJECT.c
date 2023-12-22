@@ -100,7 +100,7 @@ int main()
 					y = getDragon();
 				}
 			}
-			while (y == 0);
+			while (y == 1);
 			break;
 		case 2:
 			do
@@ -150,7 +150,7 @@ int main()
 					y = getDragon();
 				}
 			}
-			while (y == 0);
+			while (y == 1);
 			break;
 		case 3:
 			do
@@ -185,7 +185,7 @@ int main()
 					y = getDragon();
 				}
 			}
-			while (y == 0);
+			while (y == 1);
 			break;
 		case 4:
 			do
@@ -220,7 +220,7 @@ int main()
 					y = getDragon();
 				}
 			}
-			while (y == 0);
+			while (y == 1);
 			break;
 		case 0:
 			return 0;
